@@ -5,7 +5,8 @@ I used two datasets found in [this](https://www.kaggle.com/datasets/tysonpo/bike
 ## Project Story:
 ### Cleaning the data 🧹
 ---
-Concated dataframe contained **500** columns with valuable data spreaded inbetween, it was a bit of struggle (or playing with 🐼pandas🐼) to compress the data to 10 useful cathegories ✅
+Concated dataframe contained **500** columns with valuable data spreaded inbetween, it was a bit of struggle 
+(or playing with 🐼pandas🐼) to compress the data to 10 useful cathegories ✅
 Unfortunetly it required removing about 45% of source data, so finally I was left with:
 - 2000 records for mtb bikes 🚵
 - 2500 record for road bikes 🚴
