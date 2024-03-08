@@ -1,9 +1,0 @@
-{
-    "n_layers": 1,
-    "n_units_l0": 11,
-    "dropout_l0": 0.1437859376309022,
-    "optimizer": "RMSprop",
-    "learning_rate": 0.07877396140697113,
-    "mini_batch_size": 8,
-    "epochs": 28
-}

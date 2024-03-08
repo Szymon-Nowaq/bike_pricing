@@ -1,0 +1,11 @@
+{
+    "n_layers": 2,
+    "n_units_l0": 14,
+    "dropout_l0": 0.2109085154730162,
+    "n_units_l1": 13,
+    "dropout_l1": 0.15791427700770883,
+    "optimizer": "Adam",
+    "learning_rate": 0.03194602039245915,
+    "mini_batch_size": 4,
+    "epochs": 30
+}
