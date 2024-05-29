@@ -38,7 +38,4 @@ ___
 ![combined](https://github.com/Szymon-Nowaq/bike_pricing/blob/main/best_models/accurancy_general_raport.jpg)
 ___
 Raports from other models can be found [there](https://github.com/Szymon-Nowaq/bike_pricing/tree/main/best_models)
-___
-## Random forest regressor:
-### Work in progress 🛠️
 
